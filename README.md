@@ -1,5 +1,7 @@
 # egg-telescope
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/toxic-johann/egg-telescope.svg)](https://greenkeeper.io/)
+
 [![NPM version][npm-image]][npm-url]
 [![build status][travis-image]][travis-url]
 [![Test coverage][codecov-image]][codecov-url]
